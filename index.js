@@ -1,3 +1,3 @@
-var g = 9;
-var b = 2;
-var c = 3;
+function f1(){
+	console.log(121)
+}
