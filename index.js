@@ -1,3 +1,3 @@
 function f2(){
-	console.log(121)
+	console.log(354354354)
 }
