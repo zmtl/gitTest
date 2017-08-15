@@ -1,6 +1,4 @@
 function f2(){
-	console.log("modify on hb")
+	console.log("modify on hb2")
 }
-function f3(){
-	console.log("add f3")
-}
+
