@@ -6,4 +6,4 @@ function f4(){
 }
 a1
 b
-c
+c1
